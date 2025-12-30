@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Israel 👋
 
-<!--
-**iscede/iscede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst / BI Analyst focused on turning operational data into clear KPIs and dashboards.
 
-Here are some ideas to get you started:
+## 🔥 Featured project
+- **Power BI – Car Sales Dashboard**  
+  https://github.com/iscede/powerbi-car-visualization-portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech & Tools
+- Power BI (DAX, Power Query)
+- SQL
+- Python (basic) / R (basic)
+- Data modeling, KPIs, reporting
+
+## 🎯 What I’m looking for
+Data Analyst / BI roles where I can build dashboards, automate reporting, and support decision-making with data.
+
+## 📫 Contact
+- LinkedIn: *https://ec.linkedin.com/in/andre-israel-cedeno*
+- Email: *andreisrael11@gmail.com*
