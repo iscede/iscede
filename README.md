@@ -1,20 +1,22 @@
 # Hi, I'm Israel 👋
 
-Data Analyst / BI Analyst focused on turning operational data into clear KPIs and dashboards.
+**Data Scientist | Business Intelligence | Analytics & Digital Transformation | Python, SQL, Power BI**
+
+I build data products (dashboards, KPIs, and analytics) that turn operational data into clear decisions.
 
 ## 🔥 Featured project
-- **Power BI – Car Sales Dashboard**  
+- **Power BI – Car Sales Dashboard (Portfolio Project)**  
   https://github.com/iscede/powerbi-car-visualization-portfolio
 
 ## 🧰 Tech & Tools
-- Power BI (DAX, Power Query)
-- SQL
-- Python (basic) / R (basic)
-- Data modeling, KPIs, reporting
+- **Power BI** (DAX, Power Query, Data Modeling)
+- **SQL**
+- **Python** (data analysis)
+- **Analytics & Reporting** (KPIs, storytelling, dashboards)
 
 ## 🎯 What I’m looking for
-Data Analyst / BI roles where I can build dashboards, automate reporting, and support decision-making with data.
+Roles in **Data Science / BI / Analytics** where I can deliver measurable impact through automation, insights, and decision support.
 
 ## 📫 Contact
-- LinkedIn: *https://ec.linkedin.com/in/andre-israel-cedeno*
+- LinkedIn: https://ec.linkedin.com/in/andre-israel-cedeno
 - Email: *andreisrael11@gmail.com*
